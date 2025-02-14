@@ -19,7 +19,7 @@
 
 ###
 
-<h2>❤️ Support Me</h2>
+<h2 align="center">❤️ Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/kazaiko">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
