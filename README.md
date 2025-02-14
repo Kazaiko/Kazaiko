@@ -54,7 +54,6 @@
 <img src="https://raw.githubusercontent.com/kazaiko/kazaiko/output/snake.svg" alt="Snake animation" />
 
 ###
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kazaiko" alt="Kazaiko" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/kazaiko">
