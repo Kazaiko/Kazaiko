@@ -51,9 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kazaiko/kazaiko/output/snake.svg" alt="Snake animation" />
-
-###
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/kazaiko">
