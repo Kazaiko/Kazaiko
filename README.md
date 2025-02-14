@@ -29,15 +29,11 @@
 
 ###
 
-<h2 align="left">🚀 Languages and Tools I Use</h2>
+<h2 align="center">🚀 Languages and Tools I Use</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/04/86/9e/04869e09851353129379e535502d87e4.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
@@ -57,6 +53,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/68/3a/43/683a43a11a8b31a71694544b4226d069.gif"  />
 </div>
 
 ###
