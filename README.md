@@ -20,11 +20,10 @@
 ###
 
 <h2 align="center">❤️ Support Me</h2>
-<p><p>
+<p align="center">
 <a href="https://www.ko-fi.com/kazaiko">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
-</p>
 </p>
 
 ###
