@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kazaiko/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hello World! 👋, I'm Kazaiko</h1>
 
 ###
